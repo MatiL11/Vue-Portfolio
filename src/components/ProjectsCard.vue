@@ -44,13 +44,15 @@ export default {
   margin: 10px;
   flex-wrap: 0 0 40%;
   padding: 10px;
-  background-color: #fff;
+  background-color: #a87bc7;
   border-radius: 25px;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .project-card img {
   height: 10rem;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
 .links {

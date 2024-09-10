@@ -40,7 +40,6 @@
             <img src="../assets/css-icon.svg" alt="" />
             <img src="../assets/react-icon.svg" alt="" />
             <img src="../assets/mongodb-icon.svg" alt="" />
-            <img src="../assets/express-icon.svg" alt="" />
           </div>
         </div>
         <div class="button-container">
@@ -75,7 +74,7 @@ img {
   flex-direction: row;
   background-color: #a87bc7;
   border-radius: 25px;
-  width: 60%;
+  width: 70%;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
